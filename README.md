@@ -62,4 +62,9 @@ transcript.json
 The main findings of the code can be found here
 
 # Licensing, Authors and Acknowledgements<a name="license"></a>
+
+<a name="license"></a>
+### License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 The dataset used in this project contains simulated data that mimics customer behavior on the Starbucks rewards mobile app. Starbucks® Rewards program: Starbucks Coffee Company.
