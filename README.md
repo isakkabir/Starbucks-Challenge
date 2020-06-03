@@ -19,8 +19,9 @@ In this project, Starbucks wants to connect offer data, customer data and transa
 
 
 # Project Motivation<a name=“motivation”></a>
-test
-
+We are interested to answer the following two questions:
+1. Which offer should be sent to a particular customer to let the customer buy more?
+2. Are there any common characteristics of the customers who take the offer?
 
 
 # Installation<a name="installation"></a>
