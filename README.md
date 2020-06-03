@@ -60,7 +60,7 @@ transcript.json
 
 
 # Results<a name=“results”></a>
-The main findings of the code can be found here
+The main findings of the code can be found [here](https://medium.com/@kabir.isak/whom-should-starbucks-send-offerings-to-a-predictive-analysis-on-customer-behaviour-ce82fc87a8a0)
 
 # Licensing, Authors and Acknowledgements<a name="license"></a>
 
